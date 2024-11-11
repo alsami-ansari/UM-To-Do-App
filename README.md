@@ -4,7 +4,10 @@ Welcome to the To-Do List App! This simple and intuitive web application is desi
 
 ## Screenshots
 
-![To-Do List App Screenshot](link-to-your-screenshot)
+Click to open :- [Link](https://alsami-ansari.github.io/UM-To-Do-App/)
+![Screenshot (99)](https://github.com/user-attachments/assets/a5188ef0-3c56-4fb8-a0d0-96203aaa084d)
+
+
 
 ## Features
 
@@ -24,11 +27,11 @@ Welcome to the To-Do List App! This simple and intuitive web application is desi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/alsami-ansari/UM-To-Do-App.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd todo-list-app
+   cd UM-To-Do-App
    ```
 3. **Open the `index.html` file in your browser** to start using the app.
 
