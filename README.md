@@ -5,7 +5,8 @@ Welcome to the To-Do List App! This simple and intuitive web application is desi
 ## Screenshots
 
 Click to open :- [Link](https://alsami-ansari.github.io/UM-To-Do-App/)
-![Screenshot (99)](https://github.com/user-attachments/assets/a5188ef0-3c56-4fb8-a0d0-96203aaa084d)
+![Screenshot (101)](https://github.com/user-attachments/assets/3a47a14a-d1c7-462b-a0d7-44c86d337fe4)
+
 
 
 
