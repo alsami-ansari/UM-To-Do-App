@@ -2,6 +2,10 @@
 
 Welcome to the To-Do List App! This simple and intuitive web application is designed to help users manage their daily tasks efficiently.
 
+## Screenshots
+
+![To-Do List App Screenshot](link-to-your-screenshot)
+
 ## Features
 
 - Add new tasks with ease.
@@ -35,10 +39,7 @@ Welcome to the To-Do List App! This simple and intuitive web application is desi
 - **Editing a Task**: Click on the 'Edit' icon to modify an existing task.
 - **Deleting a Task**: Click on the 'Delete' icon to remove a task.
 
-## Screenshots
-
-![To-Do List App Screenshot](link-to-your-screenshot)
-
+  
 ## Contributing
 
 Feel free to fork this repository, create a new branch, and submit a pull request for any improvements or bug fixes.
